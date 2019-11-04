@@ -1,0 +1,12 @@
+C:\Users\Teste\Documents\SharpDevelop Projects\ListEx1\ListEx1\obj\Debug\ListEx1.csprojResolveAssemblyReference.cache
+C:\Users\Teste\Documents\SharpDevelop Projects\ListEx1\ListEx1\bin\Debug\ListEx1.exe.config
+C:\Users\Teste\Documents\SharpDevelop Projects\ListEx1\ListEx1\bin\Debug\ListEx1.exe
+C:\Users\Teste\Documents\SharpDevelop Projects\ListEx1\ListEx1\bin\Debug\ListEx1.pdb
+C:\Users\Teste\Documents\SharpDevelop Projects\ListEx1\ListEx1\obj\Debug\ListEx1.exe
+C:\Users\Teste\Documents\SharpDevelop Projects\ListEx1\ListEx1\obj\Debug\ListEx1.pdb
+H:\ETEC - TDS\PA\Lista de Exercícios (Entregar)\ListEx1\ListEx1\bin\Debug\ListEx1.exe.config
+H:\ETEC - TDS\PA\Lista de Exercícios (Entregar)\ListEx1\ListEx1\obj\Debug\ListEx1.exe
+H:\ETEC - TDS\PA\Lista de Exercícios (Entregar)\ListEx1\ListEx1\obj\Debug\ListEx1.pdb
+H:\ETEC - TDS\PA\Lista de Exercícios (Entregar)\ListEx1\ListEx1\bin\Debug\ListEx1.exe
+H:\ETEC - TDS\PA\Lista de Exercícios (Entregar)\ListEx1\ListEx1\bin\Debug\ListEx1.pdb
+H:\ETEC - TDS\PA\Lista de Exercícios (Entregar)\ListEx1\ListEx1\obj\Debug\ListEx1.csprojResolveAssemblyReference.cache

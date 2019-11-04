@@ -1,0 +1,12 @@
+C:\Users\Angela\Documents\SharpDevelop Projects\ListEx5\ListEx5\obj\Debug\ListEx5.csprojResolveAssemblyReference.cache
+C:\Users\Angela\Documents\SharpDevelop Projects\ListEx5\ListEx5\bin\Debug\ListEx5.exe.config
+C:\Users\Angela\Documents\SharpDevelop Projects\ListEx5\ListEx5\bin\Debug\ListEx5.exe
+C:\Users\Angela\Documents\SharpDevelop Projects\ListEx5\ListEx5\bin\Debug\ListEx5.pdb
+C:\Users\Angela\Documents\SharpDevelop Projects\ListEx5\ListEx5\obj\Debug\ListEx5.exe
+C:\Users\Angela\Documents\SharpDevelop Projects\ListEx5\ListEx5\obj\Debug\ListEx5.pdb
+C:\Users\Angela\Documents\SharpDevelop Projects\1° Lista de Exercícios (PA)\ListEx5\ListEx5\bin\Debug\ListEx5.exe.config
+C:\Users\Angela\Documents\SharpDevelop Projects\1° Lista de Exercícios (PA)\ListEx5\ListEx5\bin\Debug\ListEx5.exe
+C:\Users\Angela\Documents\SharpDevelop Projects\1° Lista de Exercícios (PA)\ListEx5\ListEx5\bin\Debug\ListEx5.pdb
+C:\Users\Angela\Documents\SharpDevelop Projects\1° Lista de Exercícios (PA)\ListEx5\ListEx5\obj\Debug\ListEx5.csprojResolveAssemblyReference.cache
+C:\Users\Angela\Documents\SharpDevelop Projects\1° Lista de Exercícios (PA)\ListEx5\ListEx5\obj\Debug\ListEx5.exe
+C:\Users\Angela\Documents\SharpDevelop Projects\1° Lista de Exercícios (PA)\ListEx5\ListEx5\obj\Debug\ListEx5.pdb

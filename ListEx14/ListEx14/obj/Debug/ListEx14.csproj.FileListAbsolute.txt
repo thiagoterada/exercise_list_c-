@@ -1,0 +1,6 @@
+C:\Users\Angela\Documents\SharpDevelop Projects\ListEx14\ListEx14\obj\Debug\ListEx14.csprojResolveAssemblyReference.cache
+C:\Users\Angela\Documents\SharpDevelop Projects\ListEx14\ListEx14\bin\Debug\ListEx14.exe.config
+C:\Users\Angela\Documents\SharpDevelop Projects\ListEx14\ListEx14\bin\Debug\ListEx14.exe
+C:\Users\Angela\Documents\SharpDevelop Projects\ListEx14\ListEx14\bin\Debug\ListEx14.pdb
+C:\Users\Angela\Documents\SharpDevelop Projects\ListEx14\ListEx14\obj\Debug\ListEx14.exe
+C:\Users\Angela\Documents\SharpDevelop Projects\ListEx14\ListEx14\obj\Debug\ListEx14.pdb

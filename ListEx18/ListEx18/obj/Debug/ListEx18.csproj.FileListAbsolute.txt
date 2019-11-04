@@ -1,0 +1,12 @@
+C:\Users\Teste\Documents\SharpDevelop Projects\ListEx18\ListEx18\obj\Debug\ListEx18.csprojResolveAssemblyReference.cache
+C:\Users\Teste\Documents\SharpDevelop Projects\ListEx18\ListEx18\bin\Debug\ListEx18.exe.config
+C:\Users\Teste\Documents\SharpDevelop Projects\ListEx18\ListEx18\bin\Debug\ListEx18.exe
+C:\Users\Teste\Documents\SharpDevelop Projects\ListEx18\ListEx18\bin\Debug\ListEx18.pdb
+C:\Users\Teste\Documents\SharpDevelop Projects\ListEx18\ListEx18\obj\Debug\ListEx18.exe
+C:\Users\Teste\Documents\SharpDevelop Projects\ListEx18\ListEx18\obj\Debug\ListEx18.pdb
+G:\ETEC - TDS\PA\Lista de Exercícios (Entregar)\ListEx18\ListEx18\bin\Debug\ListEx18.exe.config
+G:\ETEC - TDS\PA\Lista de Exercícios (Entregar)\ListEx18\ListEx18\obj\Debug\ListEx18.exe
+G:\ETEC - TDS\PA\Lista de Exercícios (Entregar)\ListEx18\ListEx18\obj\Debug\ListEx18.pdb
+G:\ETEC - TDS\PA\Lista de Exercícios (Entregar)\ListEx18\ListEx18\bin\Debug\ListEx18.exe
+G:\ETEC - TDS\PA\Lista de Exercícios (Entregar)\ListEx18\ListEx18\bin\Debug\ListEx18.pdb
+G:\ETEC - TDS\PA\Lista de Exercícios (Entregar)\ListEx18\ListEx18\obj\Debug\ListEx18.csprojResolveAssemblyReference.cache

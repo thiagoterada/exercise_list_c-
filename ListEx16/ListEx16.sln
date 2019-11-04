@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListEx16", "ListEx16\ListEx16.csproj", "{5ABBAFE0-36A9-4988-9E7E-849930C4A30B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ABBAFE0-36A9-4988-9E7E-849930C4A30B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ABBAFE0-36A9-4988-9E7E-849930C4A30B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ABBAFE0-36A9-4988-9E7E-849930C4A30B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ABBAFE0-36A9-4988-9E7E-849930C4A30B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
